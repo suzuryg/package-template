@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "suzuryg",
+    "email": "suzuryg@outlook.com"
+  },
+  "name": "jp.suzuryg.package-name",
+  "displayName": "PackageName",
+  "description": "",
+  "version": "0.0.1",
+  "type": "tool",
+  "license": "SEE LICENSE IN LICENSE",
+  "unity": "2022.3",
+  "dependencies": {
+  },
+  "publishConfig": {
+  }
+}
